@@ -198,3 +198,13 @@ hr{
   border-radius: 8px;
   font-family: 'Montserrat', sans-serif;
 }
+
+a{
+  color: black;
+}
+
+.login_button{
+  background-color: #92C6B9;
+  border-radius: 8px;
+  font-family: 'Montserrat', sans-serif;
+}
