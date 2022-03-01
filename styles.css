@@ -17,10 +17,10 @@
 
 /* body */
 body {
-    font-family: 'Montserrat', sans-serif;
-    background-color: #D9EDE8;
-    margin:0px;
-    padding:0px;
+  font-family: 'Montserrat', sans-serif;
+  background-color: #D9EDE8;
+  margin:0px;
+  padding:0px;
 }
 
 /* nav and header links */
@@ -140,7 +140,7 @@ footer {
 }
 
 .account_content button{
-  width:30%;
+  width: 30%;
   height: 50px;
   margin: 0.75%;
   background-color: #92C6B9;
@@ -207,4 +207,65 @@ a{
   background-color: #92C6B9;
   border-radius: 8px;
   font-family: 'Montserrat', sans-serif;
+}
+
+.column {
+  float: left;
+  width: 50%;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.pp1_img{
+  width: 85%;
+}
+
+.mini_img{
+  width: 15%;
+  border-radius: 10px;
+}
+
+.flavor_choice{
+  width: 10%;
+  border-radius: 5px;
+}
+
+.addtocart_button{
+  background-color: white;
+  font-family: 'Montserrat', sans-serif;
+  width: 25%;
+  height: 35px;
+  margin:0px;
+  padding:0px;
+}
+
+.plus_button{
+  background-color: white;
+  font-family: 'Montserrat', sans-serif;
+  width: 10%;
+  height: 35px;
+  margin:0px;
+  padding:0px;
+}
+
+.minus_button{
+  background-color: white;
+  font-family: 'Montserrat', sans-serif;
+  width: 10%;
+  height: 35px;
+  margin:0px;
+  padding:0px;
+}
+
+.counter_button{
+  background-color: white;
+  font-family: 'Montserrat', sans-serif;
+  width: 10%;
+  height: 35px;
+  margin:0px;
+  padding:0px;
 }
